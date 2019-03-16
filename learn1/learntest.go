@@ -9,4 +9,5 @@ func main() {
 	fmt.Println("this is my go learntest project", time.Now())
 	fmt.Println("hello world!")
 	fmt.Println("hello world 2!")
+	fmt.Println("push error!!!")
 }
